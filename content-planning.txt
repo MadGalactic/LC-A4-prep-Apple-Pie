@@ -4,19 +4,32 @@ Use this file to plan out your content before coding.
 	
 
 TITLE (logo optional)
+Madeline's Morning Oatmeal
 
 
 TAGLINE (optional)
-
+A Great Way to Start the Day
 
 INTRO (paragraph)
-
+Oatmeal is the best! You can dress it up as much or as little as you want, and you can add as many toppings as can fit in your bowl. It's a solid source of fiber and beneficial to those with cholesterol issues. If you need to watch your sugar intake and want to avoid oats, try quinoa porridge. Same outcome and much less of a danger to your insulin levels. Here is a recipe for quick and easy overnight oats.  
 
 MATERIALS/TOOLS/INGREDIENTS/ETC NEEDED (unordered list)
-
+1 bowl
+1 cup of milk of your choice
+1/2 cup of oats (1/4 cup of quinoa)
+1 tablespoon of ground flax seed
+1 teaspoon of chia seeds
+1 tablespoon of hemp seeds
+Baking vanilla, measure with your heart
+1/8 teaspoon of cinnamon powder, or to yout liking
+Sprinkle of nutmeg (literally only a sprinkle, nutmeg is very overwhelming)
+Pinch of salt
+Chopped up fruits of your choice
 
 DIRECTIONS (ordered list)
-
+1. place the dry oats, cinnamon, nutmeg, salt, chia and flax seed into a bowl. Mix well. 
+2. Add in your milk and vanilla and stir. Leave in the refridgerator overnight.
+3. In the morning, chop up your fruits and you're good to go! If you don't like cold oats, pop the dish into the microwave and give it anywhere from 30 seconds to 2 minutes, depending on your wattage and personal preference. 
 
 IMAGES (at least two)
 
